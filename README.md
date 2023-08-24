@@ -1,4 +1,5 @@
-# LGM-TASK2
+# LGM-VIP-August-Batch-Task-2
+
 
 HY...everyone this is MANOHAR KUMAR JHA , I completed task - 2 of letsgrowmore to create web application using react.js 
 
